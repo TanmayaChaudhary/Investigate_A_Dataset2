@@ -41,12 +41,16 @@ Using data analysis process to explore this data set answer questions we were in
 **1 - what is the overall appointment show-up vs. no show-up rate?**<br/>
 ![Q1 Answer](Output_Snapshots/q1.png)
 
-**2 - what are the most feature that matter the most of ('Age', 'being alcoholic', 'Having an SMS', 'Gender', 'Scholarship'), to make the patient make it to his appointment?**
+**2 - what are the most feature that matter the most of ('Age', 'being alcoholic', 'Having an SMS', 'Gender', 'Scholarship'), to make the patient make it to his appointment?**<br/>
+Age Of people who showed.<br/>
 ![Q2 Answer](Output_Snapshots/q2a.png)
-
+Relationship Between alcoholic & patients who showed.<br/>
 ![Q2 Answer](Output_Snapshots/q2b.png)
+Relationship Between SMS_recivers & patients who showed.<br/>
 ![Q2 Answer](Output_Snapshots/q2c.png)
+Relationship Between Gender & patients who showed.<br/>
 ![Q2 Answer](Output_Snapshots/q2d.png)
+Relationship Between patients who have scholarship & patients who showed.<br/>
 ![Q2 Answer](Output_Snapshots/q2e.png)
 
 Here is a link of online [report](https://tanmayachaudhary.github.io/Investigate_A_Dataset2/exploring-noShowAppointments-Dataset.html).
